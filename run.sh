@@ -4,4 +4,4 @@ echo `env`
 
 git pull
 
-mvn jetty:run
+python -m SimpleHTTPServer 8000
